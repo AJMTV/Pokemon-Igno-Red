@@ -5,7 +5,7 @@
 
 Pokémon FireRed, but your Pokémon IGNORE you.
 
-Pokémon Igno Red is a fan-made Pokémon FireRed ROM hack
+Pokémon Igno Red is a fan-made Pokémon FireRed ROM hack made by AJMTV
 that completely changes the obedience system.
 
 When a Pokémon disobeys, it may:

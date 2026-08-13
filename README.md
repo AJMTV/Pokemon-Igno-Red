@@ -5,8 +5,8 @@
 
 Pokémon FireRed, but your Pokémon IGNORE you.
 
-Pokémon Igno Red is a fan-made Pokémon FireRed ROM hack made by AJMTV
-that completely changes the obedience system.
+Pokémon Igno Red is a fan-made Pokémon FireRed ROM hack
+made by AJMTV that completely changes the obedience system.
 
 When a Pokémon disobeys, it may:
 
@@ -112,6 +112,6 @@ Watch the Pokémon Igno Red Nuzlocke on my YouTube channel:
 https://youtu.be/ln4l1GYEhiw
 
 For more Pokémon content, Nuzlockes, and other videos,
-check out AJMTV on YouTube:
+check out AJMTV on YouTube.
 
 https://www.youtube.com/c/AJMTV

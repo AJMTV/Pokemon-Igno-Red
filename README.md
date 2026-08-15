@@ -109,7 +109,7 @@ Want to see Pokémon Igno Red v1.0?
 
 Watch the Pokémon Igno Red Nuzlocke on my YouTube channel:
 
-https://youtu.be/ln4l1GYEhiw
+https://youtu.be/Ct1Zw-plw-w
 
 For more Pokémon content, Nuzlockes, and other videos,
 check out AJMTV on YouTube.
